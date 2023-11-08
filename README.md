@@ -7,3 +7,5 @@ MatMul - https://github.com/Mr-Egorchik/MatMulLab.git
 VecSum - https://github.com/Mr-Egorchik/VecSumLab.git
 
 Bilateral - https://github.com/Mr-Egorchik/BilateralLab.git
+
+Genetic - https://github.com/Mr-Egorchik/GeneticLab.git
